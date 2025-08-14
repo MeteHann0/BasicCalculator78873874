@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\net8.0-windows\BasitHesapMakinesi.exe
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\net8.0-windows\BasitHesapMakinesi.deps.json
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\net8.0-windows\BasitHesapMakinesi.runtimeconfig.json
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\net8.0-windows\BasitHesapMakinesi.dll
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\net8.0-windows\BasitHesapMakinesi.pdb
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.Form1.resources
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.dll
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\refint\BasitHesapMakinesi.dll
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.pdb
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\ref\BasitHesapMakinesi.dll
+C:\Users\Metehan\source\repos\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\net8.0-windows\BasitHesapMakinesi.sourcelink.json
